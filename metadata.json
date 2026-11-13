@@ -1,0 +1,6 @@
+{
+  "name": "JajanYuk! Design Mockup",
+  "description": "Studio desain mockup interaktif, wireframe multi-perangkat, sistem token desain, dan alur pengguna untuk JajanYuk! Pekalongan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
